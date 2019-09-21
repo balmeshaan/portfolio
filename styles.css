@@ -1,0 +1,50 @@
+.title{
+	border:3px solid black;
+	border-radius: 10px;
+	text-align: center;
+	background: teal;
+	color: silver;
+}
+
+
+.contact{
+	text-align: center;
+	color: teal;
+}
+
+.parent{
+	text-align: center;
+}
+.parent > ul{
+	display: inline-block;
+}
+
+#imagex{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.python{
+	border-radius: 5px;
+	background: black;
+	color: white;
+	padding: 5px 10px;
+	margin: 2px;
+}
+
+.javascript{
+	border-radius: 5px;
+	background: grey;
+	color: white;
+	padding: 5px 10px;
+	margin: 2px;
+}
+
+.react{
+	border-radius: 5px;
+	background: black;
+	color: white;
+	padding: 5px 10px;
+	margin: 2px;
+}
